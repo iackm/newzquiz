@@ -1,0 +1,7 @@
+{
+	"require":{
+		"propel/propel1": "~1.6",
+		"symfony/console": "^4.0",
+		"symfony/validator": "^4.0"
+	}
+}
